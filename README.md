@@ -19,4 +19,4 @@ The datasets that include the information of the following:
 # The steps/plan to accomplish my data analysis:
 1. Find all the datasets needed and put them together on a same sheet.
 2. Compare two of the metrics each time to see what metrics affect the fuel consumption most.
-3. Data visualizations - make graphs or tables to show the relationship of each metrics.
+3. Data visualizations - make graphs or tables to show the relationship of each metrics and find out which factor causes the fuel consumption mostly.
