@@ -23,3 +23,6 @@ The datasets that include the information of the following:
 3. Data visualizations - make graphs or charts to show the relationship of each factor and to find out which factor causes the fuel consumption mostly.
 (I will control the variates to show the effect of fuel consumption when one of the factor is changed.)
 
+# Data Answers
+Analyzing the factors to figure out which affect the car fuel consumption most.
+![Alt text](link)
