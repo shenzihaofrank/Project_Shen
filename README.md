@@ -25,4 +25,8 @@ The datasets that include the information of the following:
 
 # Data Answers
 Analyzing the factors to figure out which affect the car fuel consumption most.
-![Alt text](https://github.com/shenzihaofrank/Project_Shen/blob/master/image.png)
+![Alt text](https://github.com/shenzihaofrank/Project_Shen/blob/master/Consumption%20vs%20Speed.PNG)
+
+![Alt text](link)
+
+![Alt text](link)
