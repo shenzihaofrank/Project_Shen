@@ -1,11 +1,19 @@
 # Project_Car_Fuel_Consumption
-# Questions in general
+
+My research question is about the factors can cause the fuel consumption for the specific car (same car, not to compare different cars). The result of this research question is that the fuel/gas type causes the fuel consumption mostly. E10, the ethanol-based fuel, has lower consumption than SP98 does. The suggestion based on the finding is that filling more E10 since it has lower fuel consumption, lower cost, and cleaner than other fuel types. Filling E10 also helps on saving our planet :) 
+
+# Research Questions
 1. What factors may affect the car fuel consumption?
 2. Is the weather one of the factors?
 3. Can fuel type affect the consumption?
 4. Can speed affect the fuel consumption?
 
-# What datasets do I need to answer the questions?
+These research questions help me to build up the thoughts on how to deal with this project and the dataset that I need to look for. To the reader, they will be clear about my thoughts at the beginning stage of this project with reading these questions.
+
+# Data Questions 
+
+1. What datasets do I need to use to answer the questions?
+
 The datasets that include the information of the following:
 1. Distance
 2. Speed
@@ -14,8 +22,9 @@ The datasets that include the information of the following:
 5. Gas type
 6. Weather condition
 
-# The metrics list above can help to figure out the car fuel consumption.
-# Data source: https://www.kaggle.com/anderas/car-consume
+The metrics list above can help to figure out what causes the car fuel consumption. Since the data in this dataset are all the numbers, I can use them directly from the dataset. I used the regression method in Excel to find is there any factor can cause the fuel consumption obviously. However, regression did not work that well for this dataset. So I rearranged the data about the total distance within two refills and the average consumption within two refills. Then, I found that the fuel type causes the consumption, and SP98 cost more than E10 on consumption.
+
+# I found the dataset on Kaggle, data source: https://www.kaggle.com/anderas/car-consume
 
 # The steps/plan to accomplish my data analysis:
 1. Find all the datasets needed and put them together on a same sheet.
