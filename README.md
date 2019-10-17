@@ -33,7 +33,8 @@ The metrics list above can help to figure out what causes the car fuel consumpti
 (I will control the variates to show the effect of fuel consumption when one of the factor is changed.)
 
 # Data Answers
-### Analyzing the factors to figure out which affect the car fuel consumption mostly. 
+Analyzing the factors to figure out which affect the car fuel consumption mostly. 
+The result of the data analysis is that the fuel type causes the fuel consumption. That also is the answer of my research question. The charts below can show how I solve this problem and the result of the data analysis and the research question. The point I want to emphasize to my audience is that I changed my solution once I noticed the regression did not work that well for the dataset, and I cleaned up the data and calculated the average fuel consumption of E10 and SP98. 
 
 ### The chart below shows the data of consumption and speed from the dataset. However, since there are so many data, it is hard to see the influence of speed to fuel consumption. So I need to try other ways to figure out the reason that really affect the fuel consumption.
 ![Alt text](https://github.com/shenzihaofrank/Project_Shen/blob/master/Consumption%20vs%20Speed.PNG)
@@ -45,3 +46,12 @@ The metrics list above can help to figure out what causes the car fuel consumpti
 
 ### The chart below shows the average fuel consumption of E10 and SP98. It is clear that the fuel consumption of E10 is lower than SP98's. So this chart gives an important information that the fuel type is the main reason to cause the fuel consumption. 
 ![Alt text](https://github.com/shenzihaofrank/Project_Shen/blob/master/Average%20consumption.PNG)
+
+
+# Research Answers
+The answer of my research question is that the fuel type causes the fuel consumption. 
+If I have more time on this project, I would try to find more datasets of different types of cars and see what are the factors that affect the fuel consumption of those cars.
+The research answer tells people that the fuel type do cause the fuel consumption. If people care about the consumption, then they can fill the gas like E10.
+As for the car/fuel/gas industry, the research answer tells audience that different fuel has different burn efficiency. The powerful gas will make more consumption; the clean gas will make less consumption.
+
+# The Final Presentation and Excel files are uploaded.
