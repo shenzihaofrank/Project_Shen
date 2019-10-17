@@ -28,7 +28,7 @@ The metrics list above can help to figure out what causes the car fuel consumpti
 
 # The steps/plan to accomplish my data analysis:
 1. Find all the datasets needed and put them together on a same sheet.
-2. Compare two of the metrics each time to see what metrics affect the fuel consumption most.
+2. Compare one of the metrics each time with consumption by using the regression in Excel to see what factor affect the fuel consumption mostly.
 3. Data visualizations - make graphs or charts to show the relationship of each factor and to find out which factor causes the fuel consumption mostly.
 (I will control the variates to show the effect of fuel consumption when one of the factor is changed.)
 
